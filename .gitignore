@@ -4,3 +4,7 @@
 #Intellij IDEA Files
 .idea
 *.iml
+
+#SBT files
+project
+target
