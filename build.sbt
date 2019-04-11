@@ -1,4 +1,4 @@
-name := "effectivescala"
+name := "ramseffectivescala"
 
 version := "0.1"
 
